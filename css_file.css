@@ -1,0 +1,31 @@
+H5 {
+    color:rgb(244, 248, 0); 
+    font-size: 36px;
+    border-radius: 30px;
+    border: solid rgb(119, 5, 5);
+    border-width: 5px;   
+}
+
+
+H1 {color: blue; margin-left: 500px;}
+
+P {COLOR: PINK}
+H6 {COLOR: VIOLET; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+H2 {color: brown;} 
+H3 {color:cyan; width: 500px;}
+
+
+#maahi {font-size:100px}
+
+.MYTEST {border-style: dotted;border-color: red; border-width: 5px;}
+
+.myclass1 {
+    color: rgb(255, 0, 0); 
+    border: black; 
+    border-style: solid; 
+    border-width: 1px; 
+    background-color: black;
+    outline-width: 10px;
+    outline-color: rgb(119, 5, 5);
+    outline-style: dotted;
+}
